@@ -1,25 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.002.0
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galaxy-TD", "Galaxy-TD.csproj", "{B7A2D534-0FB6-431D-AD64-2CEBF1CBDDFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy-TD", "Galaxy-TD.csproj", "{1BE8D532-CCEA-4924-BB14-37F401AA26EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7A2D534-0FB6-431D-AD64-2CEBF1CBDDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7A2D534-0FB6-431D-AD64-2CEBF1CBDDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7A2D534-0FB6-431D-AD64-2CEBF1CBDDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7A2D534-0FB6-431D-AD64-2CEBF1CBDDFD}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8514091F-66D0-4763-A1BF-02D4BC13EF8C}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE8D532-CCEA-4924-BB14-37F401AA26EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE8D532-CCEA-4924-BB14-37F401AA26EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE8D532-CCEA-4924-BB14-37F401AA26EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE8D532-CCEA-4924-BB14-37F401AA26EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

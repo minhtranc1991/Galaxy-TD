@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Game-Development\\Galaxy-TD\\Galaxy-TD.csproj": {}
+    "d:\\Game-Development\\Galaxy-TD\\Galaxy-TD.csproj": {}
   },
   "projects": {
-    "D:\\Game-Development\\Galaxy-TD\\Galaxy-TD.csproj": {
+    "d:\\Game-Development\\Galaxy-TD\\Galaxy-TD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Game-Development\\Galaxy-TD\\Galaxy-TD.csproj",
+        "projectUniqueName": "d:\\Game-Development\\Galaxy-TD\\Galaxy-TD.csproj",
         "projectName": "Galaxy-TD",
-        "projectPath": "D:\\Game-Development\\Galaxy-TD\\Galaxy-TD.csproj",
+        "projectPath": "d:\\Game-Development\\Galaxy-TD\\Galaxy-TD.csproj",
         "packagesPath": "C:\\Users\\stpdm\\.nuget\\packages\\",
-        "outputPath": "D:\\Game-Development\\Galaxy-TD\\obj\\",
+        "outputPath": "d:\\Game-Development\\Galaxy-TD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stpdm\\AppData\\Roaming\\NuGet\\NuGet.Config"
