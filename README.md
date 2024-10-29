@@ -1,1 +1,2 @@
-# Galaxy-TD
+<h1>Galaxy-TD</h1>
+Galaxy-TD is a tower defense game developed using MonoGame, where players must build a base and create spaceships to fend off endless waves of enemies. Players can experience diverse strategies with an infinite upgrade system, providing depth and ongoing challenges.
